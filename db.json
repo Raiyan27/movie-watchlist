@@ -1,26 +1,5 @@
 {
-  "movies": [
-    {
-      "id": "0d89",
-      "serial": 1,
-      "name": "3213123"
-    },
-    {
-      "id": "75bf",
-      "serial": 2,
-      "name": "12312"
-    },
-    {
-      "id": "5aa5",
-      "serial": 4,
-      "name": ""
-    },
-    {
-      "id": "c03f",
-      "serial": 5,
-      "name": "31231231"
-    }
-  ],
+  "movies": [],
   "tv-series": [],
   "watchlist": [],
   "foods": []
